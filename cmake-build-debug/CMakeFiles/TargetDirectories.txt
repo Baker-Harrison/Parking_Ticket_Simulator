@@ -1,0 +1,3 @@
+/Users/harrisonbaker/CLionProjects/Parking-Ticket-Simulator-4/cmake-build-debug/CMakeFiles/Parking_Ticket_Simulator_4.dir
+/Users/harrisonbaker/CLionProjects/Parking-Ticket-Simulator-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrisonbaker/CLionProjects/Parking-Ticket-Simulator-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

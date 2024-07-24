@@ -1,0 +1,12 @@
+# ninja log v6
+1	247	1721788112638463111	CMakeFiles/Parking_Ticket_Simulator_4.dir/src/ParkingMeter.cpp.o	430bbfb05fb72c3d
+1	421	1721788112638315028	CMakeFiles/Parking_Ticket_Simulator_4.dir/src/ParkedCar.cpp.o	1358f2ecf8eb6c8e
+0	471	1721788112637671861	CMakeFiles/Parking_Ticket_Simulator_4.dir/main.cpp.o	c665478e5ca226d0
+7	529	1721788183008514109	CMakeFiles/Parking_Ticket_Simulator_4.dir/src/ParkingTicket.cpp.o	bf60c358ae0298bf
+530	578	1721788183530795944	Parking_Ticket_Simulator_4	9c69be581f10a9bb
+7	465	1721788230202515990	CMakeFiles/Parking_Ticket_Simulator_4.dir/src/PoliceOfficer.cpp.o	9301d18c7e385234
+465	512	1721788230660139279	Parking_Ticket_Simulator_4	db699dd9e34a1590
+7	272	1721788259032047565	CMakeFiles/Parking_Ticket_Simulator_4.dir/main.cpp.o	c665478e5ca226d0
+272	309	1721788259297758674	Parking_Ticket_Simulator_4	db699dd9e34a1590
+7	552	1721788276452489690	CMakeFiles/Parking_Ticket_Simulator_4.dir/main.cpp.o	c665478e5ca226d0
+552	600	1721788276997378709	Parking_Ticket_Simulator_4	db699dd9e34a1590
